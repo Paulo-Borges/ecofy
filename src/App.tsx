@@ -1,7 +1,9 @@
+import Navbar from "./components/Navbar";
+
 function App() {
   return (
     <>
-      <h1 className="text-gray-950">Olá Mundo!</h1>
+      <Navbar />
     </>
   );
 }
